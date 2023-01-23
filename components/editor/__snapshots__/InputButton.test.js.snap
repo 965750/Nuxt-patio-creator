@@ -1,0 +1,8 @@
+// Vitest Snapshot v1
+
+exports[`InputButton > snapshot matches 1`] = `
+"<div data-v-cf9c6063=\\"\\">
+  <div class=\\"wrapper flex\\" data-v-cf9c6063=\\"\\"><input data-cy-name-input=\\"\\" attr=\\"\\" class=\\"wrapper__input p-2\\" type=\\"text\\" placeholder=\\"project name\\" data-v-cf9c6063=\\"\\"><button data-cy-save-project-btn=\\"\\" class=\\"wrapper__button font-bold\\" data-v-cf9c6063=\\"\\"> Save </button></div>
+  <p class=\\"inputError\\" data-v-cf9c6063=\\"\\"></p>
+</div>"
+`;
